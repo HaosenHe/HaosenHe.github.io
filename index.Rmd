@@ -9,7 +9,7 @@ links:
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:heh218@gmail.com"
 output:
   postcards::jolla
 ---
