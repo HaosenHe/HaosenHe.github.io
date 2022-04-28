@@ -2,16 +2,45 @@
 title: "Haosen He"
 image: "haosen.jpg"
 links:
-  - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Haosen-He"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/HaosenHe"
   - label: Email
     url: "mailto:heh218@gmail.com"
 output:
-  postcards::jolla
+  postcards::trestles
 ---
- 
-student at WFU.
+
+## Bio
+
+Hi! I'm Haosen He, a senior at Wake Forest University studying Mathematics and Economics. I'm interested in Economic Modeling, Game Theory, and Causal Inference. Starting this June, I will be working as a Stanford Law Empirical Research Fellow (SLERF) at Stanford University.
+
+
+## Publication
+
+“An agent-based model of elephant crop consumption walks using combinatorial optimization” (first author)
+with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Alex Yu. ***Ecological Modelling*** (2022).\
+<sub>This paper builds on the framework of utility maximization from economics with the theory of optimal foraging
+to bring an economic perspective to the issue of elephant crop consumption. Using an agent-based model (ABM)
+in which elephant agents maximize their energy balance subject to time and movement constraints, we correctly
+predicted 56% of terrain blocks visited by elephant crop-raiders in Gorongosa National Park, Mozambique from
+December 2015 to December 2016, which is a 25% improvement in performance compared with two existing
+models. Findings from this ABM support ecological understanding of elephant crop foraging, highlighting
+the optimal movements involved in crop foraging events as well as the importance of trespassing costs and
+landscape configuration.</sub>
+
+## Education
+
+**Wake Forest University** | Winston-Salem, NC
+
+Mathematics B.S. and Economics B.A. | August 2018 - May 2022
+
+
+## Honors and Awards
+
+**David and Lelia Farr Prize for Excellence in Mathematical Economics** | WFU | Spring 2022
+
+**Wake Forest Research Fellowship**  | WFU | Summer 2021
+
+**Walter Low Tatum Scholarship in Mathematics** | WFU | Fall 2020 
