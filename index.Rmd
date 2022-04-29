@@ -12,6 +12,11 @@ output:
   postcards::trestles
 ---
 
+*"Isaac Newton discovered universal gravitation and calculus during the bubonic plague. What did you discover during covid?"*
+
+<p align="right">--- Dr. Miaohua Jiang (probably)</p>
+
+
 ## Bio
 
 Hi! I'm Haosen He, a senior at Wake Forest University studying Mathematics and Economics. I'm interested in Economic Modeling, Game Theory, and Causal Inference. Starting this June, I will be working as a Stanford Law Empirical Research Fellow (SLERF) at Stanford University.
