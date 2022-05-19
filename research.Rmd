@@ -1,5 +1,6 @@
 ---
 title: "Research"
+site: distill::distill_website
 ---
 
 ```{r setup, include=FALSE}
