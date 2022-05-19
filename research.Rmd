@@ -5,7 +5,6 @@ title: "Research"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-
 ## Publication
 
 ### [An agent-based model of elephant crop consumption walks using combinatorial optimization](https://www.sciencedirect.com/science/article/pii/S0304380021003902)
