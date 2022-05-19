@@ -1,6 +1,6 @@
 ---
 title: "Haosen He"
-image: "haosen.jpg"
+image: "img/haosen.jpg"
 links:
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Haosen-He"
@@ -10,7 +10,12 @@ links:
     url: "mailto:heh218@gmail.com"
 output:
   postcards::trestles
+site: distill::distill_website
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
 
 ## Bio
 
@@ -20,7 +25,7 @@ Hi! I'm Haosen He, a senior at Wake Forest University studying Mathematics and E
 ## Publication
 
 “An agent-based model of elephant crop consumption walks using combinatorial optimization” (first author)
-with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Alex Yu. ***Ecological Modelling*** (2022).\
+with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu (Alex) Yu. ***Ecological Modelling*** (2022).\
 
 ## Education
 

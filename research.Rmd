@@ -1,0 +1,32 @@
+---
+title: "Research"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Publication
+
+### [An agent-based model of elephant crop consumption walks using combinatorial optimization](https://www.sciencedirect.com/science/article/pii/S0304380021003902)
+
+with Erin Buchholtz, Frederick H. Chen, Susanne Vogel, and Chu (Alex) Yu
+
+*Ecological Modelling*. Volume 464, February 2022, 109852
+
+**Abstract**:
+This paper builds on the framework of utility maximization from economics with the theory of optimal foraging to bring an economic perspective to the issue of elephant crop consumption. Using an agent-based model (ABM) in which elephant agents maximize their energy balance subject to time and movement constraints, we correctly predicted 56\% of terrain blocks visited by elephant crop-raiders in Gorongosa National Park, Mozambique from December 2015 to December 2016, which is a 25\% improvement in performance compared with two existing models. Findings from this ABM support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration.
+
+## Work in Progress
+
+### Behavioral response to infectious diseases under information delay
+
+
+with Frederick H. Chen and Chu (Alex) Yu
+
+**Abstract**:
+We formulate two game-theoretic models of behavioral response to infectious diseases under one-period information delay. The two models differ in whether the disease is curable (as in the SIS model) or incurable (as in the SI model). We prove that, in our behavioral SI model, a symmetric, pure-strategy Nash Equilibrium (NE) always exists. However, when the disease is curable, we find through a computer-assisted proof that a symmetric, pure-strategy NE does not always exist. We then develop and implement two dynamic programming (DP) algorithms for solving the models numerically. Using output from the algorithm, we compare our behavioral SIS model with two non-game-theoretic behavioral epidemic models in terms of fitting experimental data.
+
+
+
+

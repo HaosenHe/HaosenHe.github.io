@@ -1,0 +1,14 @@
+name: "."
+title: "Haosen He"
+description: |
+  Haosen He
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Research"
+      href: research.html
+    - text: "About me"
+      href: about.html
+    - icon: fab fa-github
+      href: https://github.com/HaosenHe
+output: distill::distill_article
