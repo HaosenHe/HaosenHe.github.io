@@ -6,8 +6,11 @@ links:
     url: "https://www.researchgate.net/profile/Haosen-He"
   - label: GitHub
     url: "https://github.com/HaosenHe"
+  - label: SLS Page
+    url: "https://law.stanford.edu/directory/haosen-he/"
   - label: Email
-    url: "mailto:heh218@gmail.com"
+    url: "mailto:hehaosen@law.stanford.edu"
+
 output:
   postcards::trestles
 site: distill::distill_website
@@ -19,19 +22,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Bio
 
-Hi! I'm Haosen He, a senior at Wake Forest University studying Mathematics and Economics. I'm interested in Economic Modeling, Game Theory, and Causal Inference. Starting this June, I will be working as a Stanford Law Empirical Research Fellow (SLERF) at Stanford University.
-
+Hi! I'm Haosen He, a research fellow at Stanford Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and B.A. in Economics (Summa Cum Laude). I'm interested in Causal Inference, Game Theory, and Economics Modeling. In the future, I will pursue a Ph.D. in Economics.
 
 ## Publication
 
 “An agent-based model of elephant crop consumption walks using combinatorial optimization” (first author)
-with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu (Alex) Yu. ***Ecological Modelling*** (2022).\
+with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu (Alex) Yu. ***Ecological Modelling*** (2022).
 
 ## Education
 
 **Wake Forest University** | Winston-Salem, NC
 
-**Mathematics B.S. (Honors)** and **Economics B.A. (High Honors)** | August 2018 - May 2022
+**Mathematics B.S. (Honors)** and **Economics B.A. (High Honors), Summa Cum Laude** | August 2018 - May 2022
 
 
 ## Honors and Awards
