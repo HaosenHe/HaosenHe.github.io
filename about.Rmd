@@ -7,7 +7,15 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-I was born in Jinan, Shandong, China (though it's not my actual hometown). The painting below depicts what Jinan looked like in around 1295 C.E. The place I grew up isn't far from that spiky mountain on the right. Today it is still a very spiky mountain, but it's now surrounded by high-rise buildings, and a railway runs underneath. 
+```{css, echo = FALSE}
+d-article p {
+  text-align: justify;
+}
+```
+### 故君子尊德性而道问学，致广大而尽精微，极高明而道中庸。温故而知新，敦厚以崇礼。
+
+
+                                                                             ————《中庸》
 
 ```{r, layout="l-screen-inset"}
 knitr::include_graphics("img/quehua.jpg")
