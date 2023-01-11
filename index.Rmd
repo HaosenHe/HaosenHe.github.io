@@ -22,12 +22,17 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Bio
 
-Hi! I'm Haosen He, a research fellow at Stanford Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and B.A. in Economics (Summa Cum Laude). I'm interested in Law & Economics, Game Theory, and Economic Modeling. I plan to pursue a Ph.D. in Economics in the future.
+Hi! I'm Haosen He, a research fellow at Stanford Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and B.A. in Economics (Summa Cum Laude). I'm interested in Game Theory, Law & Economics, and Economic Modeling. I plan to pursue a Ph.D. in Economics in the future.
 
 ## Publication
 
-“An agent-based model of elephant crop consumption walks using combinatorial optimization” (first author)
-with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu (Alex) Yu. ***Ecological Modelling*** (2022).
+“An agent-based model of elephant crop consumption walks using combinatorial optimization”
+with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022).
+
+## Work in Progress
+
+“Modeling behavioral response to infectious diseases under information delay”
+with Frederick Chen and Chu A.(Alex) Yu.
 
 ## Education
 
