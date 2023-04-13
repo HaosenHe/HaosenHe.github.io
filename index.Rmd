@@ -34,6 +34,10 @@ with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecol
 “Modeling behavioral response to infectious diseases under information delay” (Honors thesis in Economics)
 with Frederick Chen and Chu A.(Alex) Yu. *submitted, Review of Economic Design*.
 
+## R Package
+
+"Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
+
 ## Education
 
 **Wake Forest University** | Winston-Salem, NC
