@@ -13,11 +13,11 @@ d-article p {
 }
 ```
 
-### About my background
+I was born and raised in Shandong, China, where I experienced life in the mountainous countryside as well as in the bustling provincial capital Jinan. Both of them hold a special place in my heart. 
 
-I was born and raised in Shandong, China, where I experienced life in the mountainous the countryside as well as in the bustling provincial capital Jinan. Both places hold a special place in my heart. I'm a big fan of museums and volunteered at one for three years (as a tour guide for bronze wares). I also have a keen interest in philosophy, especially phenomenology (Maurice Merleau-Ponty, Dan Zahavi, etc).
+I'm a big fan of museums and volunteered at one for three years (as a tour guide for bronze wares). I also have a keen interest in philosophy, especially phenomenology (Maurice Merleau-Ponty, Dan Zahavi, etc).
 
-What Jinan looked like 1000+ years ago, according to Zhao Mengfu:
+What Jinan looked like 1000 years ago, according to Zhao Mengfu:
 
 ```{r, layout="l-screen-inset"}
 knitr::include_graphics("img/quehua.jpg")
