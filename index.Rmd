@@ -5,7 +5,7 @@ links:
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Haosen-He"
   - label: CV
-    url: "https://drive.google.com/file/d/1f1FF-9yCfTZt9tBNJekB_Z4IW_t_Oj8T/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1KGP3rDm72GsrzCyErD6rjwOik4Xelaqf/view?usp=sharing"
   - label: GitHub
     url: "https://github.com/HaosenHe"
   - label: Email
