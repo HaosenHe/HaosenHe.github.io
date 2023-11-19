@@ -99,8 +99,6 @@ knitr::include_graphics("img/mask.jpg")
 
 **Abstract**: Clinical trials for new drugs and vaccines are increasingly being conducted in developing countries due to the lower costs of recruiting trial participants and clinicians in these countries. Nonetheless, many developing countries that participated in vaccine trials have difficulties accessing the same vaccines they helped develop. A clinical trial coalition of developing countries will allow member states to collectively bargain with pharmaceutical companies for better access to vaccines during the initial vaccine roll-out, complementing programs such as COVAX, which provides delayed access to vaccines for developing countries when they become widely available. We analyze the feasibility of such an international clinical trial oligopoly using data on COVID-19 vaccine trials and a game-theoretic model involving pharmaceutical companies, developing countries, and developed countries. 
 
-Paper draft and data available upon request.
-
    </div>
   <div class="right-column">
 ```{r fig.align='left', out.width='100%', echo=FALSE}
