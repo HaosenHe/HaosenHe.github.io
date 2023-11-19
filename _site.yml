@@ -9,6 +9,8 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
+    - text: "Lanterman"
+      href: https://siddlapp-fair-hearing-search-tool.law.stanford.edu/
     - text: "About me"
       href: about.html
     - icon: fab fa-github
