@@ -26,7 +26,7 @@ Hi! I'm Haosen He, an Economics predoc at Stanford University - Law School. I gr
 
 ## Publication
 
-"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304380021003902#preview-section-cited-by) [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
+"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304380021003902) [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
 
 ## Work in Progress
 
