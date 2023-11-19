@@ -6,6 +6,7 @@ site: distill::distill_website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 ## Publication
 
 ### [An agent-based model of elephant crop consumption walks using combinatorial optimization](https://www.sciencedirect.com/science/article/pii/S0304380021003902)
@@ -14,8 +15,9 @@ with Erin Buchholtz, Frederick H. Chen, Susanne Vogel, and Chu A.(Alex) Yu
 
 *Ecological Modelling*. Volume 464, February 2022, 109852
 
-**Abstract**:
-This paper builds on the framework of utility maximization from economics with the theory of optimal foraging to bring an economic perspective to the issue of elephant crop consumption. Using an agent-based model (ABM) in which elephant agents maximize their energy balance subject to time and movement constraints, we correctly predicted 56\% of terrain blocks visited by elephant crop-raiders in Gorongosa National Park, Mozambique from December 2015 to December 2016, which is a 25\% improvement in performance compared with two existing models. Findings from this ABM support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration.
+**Abstract**: This paper builds on the framework of utility maximization from economics with the theory of optimal foraging to bring an economic perspective to the issue of elephant crop consumption. Using an agent-based model (ABM) in which elephant agents maximize their energy balance subject to time and movement constraints, we correctly predicted 56% of terrain blocks visited by elephant crop-raiders in Gorongosa National Park, Mozambique from December 2015 to December 2016, which is a 25% improvement in performance compared with two existing models. Findings from this ABM support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration.
+
+[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304380021003902#preview-section-cited-by) [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
 
 ## Work in Progress
 
@@ -24,9 +26,18 @@ This paper builds on the framework of utility maximization from economics with t
 
 with Frederick H. Chen and Chu A.(Alex) Yu
 
-**Abstract**:
-We formulate and numerically solve a game-theoretic model of rational agents’ self-protective actions in an epidemic game with information delay. We then compare our model simulation results with data collected from real human players in an online experiment conducted by Chen et al(2013). We find that, compared with game-theoretic agents, human players receive poorer endgame outcomes due to a lack of synchronization in their self-protective actions. In addition, human players’ decisions are dependent on their infection history, and they are less responsive to changes in disease prevalence compared to game-theoretic agents. Our results suggest that human players in the epidemic game differ substantially from fully-rational, forward-looking, strategic agents in terms of both player outcomes and decision-making mechanisms.
+**Abstract**: We formulate and numerically solve a game-theoretic model of rational agents' self-protective actions in an epidemic game with information delay. We show that our model can give rise to multiple equilibria. We then compare our model simulation results with data collected from human players in an online experiment conducted by Chen et al. (2013). Compared with game-theoretic agents, human players receive poorer endgame outcomes as measured by payoffs. In addition, human players' decisions are dependent on their infection history, and they are less responsive to changes in disease prevalence compared to game-theoretic agents. Our results suggest that human players in the epidemic game differ substantially from fully-rational, forward-looking, strategic agents in terms of both game outcomes and decision-making mechanisms.
 
+[[Draft]](https://drive.google.com/file/d/1Gn6-WgHxp7-ajnjCE0x6ntkDbG3G-Hjq/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1I93NrJagL-VebCUm8KMkyaHDAaSwEvSW/view?usp=sharing)
 
+## Some of My Fun Undergraduate Projects
 
+### [Modeling Language Death](https://drive.google.com/file/d/19qbuV0QyEoR57ZkTQw6ZE3MxUHjJbjis/view?usp=sharing)
 
+### [Modeling the Dynamics of National Income](https://drive.google.com/file/d/1JB53sczPZRfsZxH0sHaFlc4Ep4RKVClw/view?usp=drive_link)
+
+### [Image Clustering using UMAP](https://drive.google.com/file/d/1ioyFSLdllbfNyXztGsf74DJXo7h5Jcea/view?usp=drive_link)
+
+### [Law of Large Numbers & Central Limit Theorem](https://drive.google.com/file/d/1SFwy7gszQD-Ce0rma_i1F1plnqkkBv5C/view?usp=drive_link)
+
+### [The Impact of COVID-19 Lockdown on E-Commerce](https://drive.google.com/file/d/1No7yWjNaEiz7Hy_GfypK81WYfoVjSBwA/view?usp=sharing)

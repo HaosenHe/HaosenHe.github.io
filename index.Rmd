@@ -2,14 +2,14 @@
 title: "Haosen He"
 image: "img/haosen.jpg"
 links:
-  - label: ResearchGate
-    url: "https://www.researchgate.net/profile/Haosen-He"
+  - label: CV
+    url: "https://drive.google.com/file/d/1f1FF-9yCfTZt9tBNJekB_Z4IW_t_Oj8T/view?usp=sharing"
   - label: GitHub
     url: "https://github.com/HaosenHe"
-  - label: SLS Page
-    url: "https://law.stanford.edu/directory/haosen-he/"
   - label: Email
-    url: "mailto:hehaosen@law.stanford.edu"
+    url: "mailto:hehaosen@stanford.edu"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Haosen-He"
 
 output:
   postcards::trestles
@@ -22,17 +22,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Bio
 
-Hi! I'm Haosen He, a research fellow at Stanford Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and B.A. in Economics (Summa Cum Laude). I'm interested in Game Theory, Law & Economics, and the intersection of Machine Learning & Causal Inference. I will apply for Ph.D. in Economics this year.
+Hi! I'm Haosen He, an Economics predoc at Stanford University - Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and a B.A. in Economics (*summa cum laude*). I'm interested in Game Theory, Market Design, Behavioral Economics, and the intersection of Machine Learning & Causal Inference. I'm currently applying to Ph.D. programs in Economics.
 
 ## Publication
 
-“An agent-based model of elephant crop consumption walks using combinatorial optimization”
-with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022).
+"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304380021003902#preview-section-cited-by) [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
 
 ## Work in Progress
 
-“Modeling behavioral response to infectious diseases under information delay” (Honors thesis in Economics)
-with Frederick Chen and Chu A.(Alex) Yu. *submitted, Review of Economic Design*.
+"Modeling behavioral response to infectious diseases under information delay" (Honors thesis in Economics) with Frederick Chen and Chu A.(Alex) Yu. *R&R, Review of Economic Design (Special Issue: Economics of Epidemics)*. [[Draft]](https://drive.google.com/file/d/1Gn6-WgHxp7-ajnjCE0x6ntkDbG3G-Hjq/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1I93NrJagL-VebCUm8KMkyaHDAaSwEvSW/view?usp=sharing)
 
 ## R Package
 
@@ -40,19 +38,18 @@ with Frederick Chen and Chu A.(Alex) Yu. *submitted, Review of Economic Design*.
 
 ## Education
 
-**Wake Forest University** | Winston-Salem, NC
+**Wake Forest University** \| Winston-Salem, NC
 
-**Mathematics B.S. (Honors)** and **Economics B.A. (High Honors), Summa Cum Laude** | August 2018 - May 2022
-
+**Mathematics B.S. (Honors)** and **Economics B.A. (High Honors), summa cum laude** \| August 2018 - May 2022
 
 ## Honors and Awards
 
-**David and Lelia Farr Prize for Excellence in Mathematical Economics** | WFU | Spring 2022
+**David and Lelia Farr Prize for Excellence in Mathematical Economics** \| WFU \| Spring 2022
 
-**CP West Award** (for seniors graduating with the highest GPA) | Phi Beta Kappa | Spring 2022
+**CP West Award** (for seniors graduating with the highest GPA) \| Phi Beta Kappa \| Spring 2022
 
-**Wake Forest Research Fellowship**  | WFU | Summer 2021
+**Wake Forest Research Fellowship** \| WFU \| Summer 2021
 
-**Walter Low Tatum Scholarship in Mathematics** | WFU | Fall 2020 
+**Walter Low Tatum Scholarship in Mathematics** \| WFU \| Fall 2020
 
-**Richter Scholarship** | WFU | Spring 2019
+**Richter Scholarship** \| WFU \| Spring 2019
