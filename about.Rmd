@@ -12,14 +12,13 @@ d-article p {
   text-align: justify;
 }
 ```
-### 故君子尊德性而道问学，致广大而尽精微，极高明而道中庸。温故而知新，敦厚以崇礼。
 
+### About my background
 
-                                                                             ————《中庸》
+I was born and raised in Shandong, China, where I experienced life in the mountainous the countryside as well as in the bustling provincial capital Jinan. Both places hold a special place in my heart. I'm a big fan of museums and volunteered at one for three years (as a tour guide for bronze wares). I also have a keen interest in philosophy, especially phenomenology (Maurice Merleau-Ponty, Dan Zahavi, etc).
+
+What Jinan looked like 1000+ years ago, according to Zhao Mengfu:
 
 ```{r, layout="l-screen-inset"}
 knitr::include_graphics("img/quehua.jpg")
 ```
-<center>
-鹊华秋色图
-</center>

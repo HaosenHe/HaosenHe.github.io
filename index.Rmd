@@ -2,14 +2,14 @@
 title: "Haosen He"
 image: "img/haosen.jpg"
 links:
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Haosen-He"
   - label: CV
     url: "https://drive.google.com/file/d/1f1FF-9yCfTZt9tBNJekB_Z4IW_t_Oj8T/view?usp=sharing"
   - label: GitHub
     url: "https://github.com/HaosenHe"
   - label: Email
     url: "mailto:hehaosen@stanford.edu"
-  - label: ResearchGate
-    url: "https://www.researchgate.net/profile/Haosen-He"
 
 output:
   postcards::trestles
@@ -32,6 +32,8 @@ Hi! I'm Haosen He, an Economics predoc at Stanford University - Law School. I gr
 
 "Modeling behavioral response to infectious diseases under information delay" (Honors thesis in Economics) with Frederick Chen and Chu A.(Alex) Yu. *R&R, Review of Economic Design (Special Issue: Economics of Epidemics)*. [[Draft]](https://drive.google.com/file/d/1Gn6-WgHxp7-ajnjCE0x6ntkDbG3G-Hjq/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1I93NrJagL-VebCUm8KMkyaHDAaSwEvSW/view?usp=sharing)
 
+"Improving vaccine access in the developing world through a vaccine trial coalition"
+
 ## R Package
 
 "Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
@@ -40,7 +42,7 @@ Hi! I'm Haosen He, an Economics predoc at Stanford University - Law School. I gr
 
 **Wake Forest University** \| Winston-Salem, NC
 
-**Mathematics B.S. (Honors)** and **Economics B.A. (High Honors), summa cum laude** \| August 2018 - May 2022
+**Mathematics B.S. (Honors)** and **Economics B.A. (High Honors), *summa cum laude*** | August 2018 - May 2022
 
 ## Honors and Awards
 
