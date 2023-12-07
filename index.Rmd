@@ -32,7 +32,7 @@ Hi! I'm Haosen He, an Economics predoc at Stanford University - Law School. I gr
 
 "Modeling behavioral response to infectious diseases under information delay" (Honors thesis in Economics) with Frederick Chen and Chu A.(Alex) Yu. *R&R, Review of Economic Design (Special Issue: Economics of Epidemics)*. [[Draft]](https://drive.google.com/file/d/1Gn6-WgHxp7-ajnjCE0x6ntkDbG3G-Hjq/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1I93NrJagL-VebCUm8KMkyaHDAaSwEvSW/view?usp=sharing)
 
-"Improving vaccine access in the developing world through a vaccine trial coalition"
+"Improving vaccine access in the developing world through a vaccine trial coalition" [[Slides]](https://drive.google.com/file/d/1dFORgEgvqlPRVuHfSpvXvmhO3R6crbHZ/view?usp=sharing)
 
 ## R Package
 
