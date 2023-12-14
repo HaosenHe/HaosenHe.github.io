@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Bio
 
-Hi! I'm Haosen He, an Economics predoc at Stanford University - Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and a B.A. in Economics (*summa cum laude*). I'm interested in Game Theory, Market Design, Behavioral Economics, and the intersection of Machine Learning & Causal Inference. I'm currently applying to Ph.D. programs in Economics.
+Hi! I'm Haosen He, an Economics predoc at Stanford University - Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and a B.A. in Economics (*summa cum laude*). I'm currently applying to Ph.D. programs in Economics.
 
 ## Publication
 
