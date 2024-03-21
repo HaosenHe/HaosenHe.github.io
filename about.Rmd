@@ -13,11 +13,7 @@ d-article p {
 }
 ```
 
-I was born and raised in Shandong, China, where I experienced life in the mountainous countryside as well as in the bustling provincial capital Jinan. Both of them hold a special place in my heart. 
-
-I'm a big fan of museums and volunteered at one for three years (as a guide for the bronze ware exhibition). I also have a keen interest in philosophy, especially phenomenology (Maurice Merleau-Ponty, Dan Zahavi, etc).
-
-What Jinan looked like 1000 years ago, according to Zhao Mengfu:
+君子所性，虽大行不加焉，虽穷居不损焉，分定故也。
 
 ```{r, layout="l-screen-inset"}
 knitr::include_graphics("img/quehua.jpg")
