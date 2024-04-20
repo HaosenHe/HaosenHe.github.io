@@ -13,8 +13,3 @@ d-article p {
 }
 ```
 
-君子所性，虽大行不加焉，虽穷居不损焉，分定故也。
-
-```{r, layout="l-screen-inset"}
-knitr::include_graphics("img/quehua.jpg")
-```

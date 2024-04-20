@@ -4,8 +4,8 @@ image: "img/haosen.jpg"
 links:
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Haosen-He"
-  - label: CV
-    url: "https://drive.google.com/file/d/1KGP3rDm72GsrzCyErD6rjwOik4Xelaqf/view?usp=sharing"
+  #- label: CV
+  #  url: "https://drive.google.com/file/d/1KGP3rDm72GsrzCyErD6rjwOik4Xelaqf/view?usp=sharing"
   - label: GitHub
     url: "https://github.com/HaosenHe"
   - label: Email
@@ -20,9 +20,10 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Bio
+<!---## Bio-->
 
-Hi! I'm Haosen He, a research fellow at Stanford Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and a B.A. in Economics (*summa cum laude*). I will start my Economics PhD this fall at UC Berkeley.
+Hi! I'm Haosen He, a research fellow at Stanford Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and a B.A. in Economics. I will be starting my Economics PhD this fall at UC Berkeley.
+<!---
 
 ## Publication
 
@@ -55,3 +56,4 @@ Hi! I'm Haosen He, a research fellow at Stanford Law School. I graduated from Wa
 **Walter Low Tatum Scholarship in Mathematics** \| WFU \| Fall 2020
 
 **Richter Scholarship** \| WFU \| Spring 2019
+-->
