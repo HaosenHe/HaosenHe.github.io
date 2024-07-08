@@ -21,8 +21,35 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <!---## Bio-->
+## Bio
 
-Hi! I'm Haosen He, a research fellow at Stanford Law School. I graduated from Wake Forest University in 2022 with a B.S. in Mathematics and a B.A. in Economics. I will be starting my Economics PhD this fall at UC Berkeley.
+Hi I'm Haosen He, an incoming PhD student at [Berkeley Economics](https://www.econ.berkeley.edu/). I'm interested in applied economic theory, industrial organization, and public economics. 
+
+## Previous Experiences
+
+**Research Fellow (Law and Economics)** \| Stanford University - Law School \| 2022 - 2024
+
+**B.S. in Mathematics (Honors) and B.A.in Economics (High Honors), *summa cum laude* ** \| Wake Forest University \| 2022
+
+## Honors and Awards
+
+**David and Lelia Farr Prize for Excellence in Mathematical Economics** \| WFU \| Spring 2022
+
+**CP West Award** \| Phi Beta Kappa \| Spring 2022
+
+**Wake Forest Research Fellowship** \| WFU \| Summer 2021
+
+**Walter Low Tatum Scholarship in Mathematics** \| WFU \| Fall 2020
+
+**Richter Scholarship** \| WFU \| Spring 2019
+
+## Publication
+
+"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304380021003902) [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
+
+## R Package
+
+"Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
 <!---
 
 ## Publication
