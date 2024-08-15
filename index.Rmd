@@ -4,6 +4,8 @@ image: "img/haosen.jpg"
 links:
   - label: ResearchGate
     url: "https://www.researchgate.net/profile/Haosen-He"
+  - label: Berkeley Profile
+    url: "https://www.econ.berkeley.edu/grad/profiles/17060"
   #- label: CV
   #  url: "https://drive.google.com/file/d/1KGP3rDm72GsrzCyErD6rjwOik4Xelaqf/view?usp=sharing"
   - label: GitHub
@@ -23,15 +25,15 @@ knitr::opts_chunk$set(echo = FALSE)
 <!---## Bio-->
 ## Bio
 
-Hi! I'm Haosen He, an incoming PhD student at [Berkeley Economics](https://www.econ.berkeley.edu/). I'm interested in applied economic theory, industrial organization, law & economics, and public economics. 
+Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/) interested in applied economic theory, industrial organization, and public economics. Previously, I have also worked on projects in ecological economics, law & economics, and labor economics.
 
-## Experiences
-**PhD Student in Economics** \| UC Berkeley \| 2024 - 
+## Education & Experience
+**PhD Student in Economics** \| UC Berkeley \| 2024 - Present
 
 
 **Research Fellow (Law & Economics)** \| Stanford University \| 2022 - 2024
 
-**B.S. in Mathematics (Honors) & B.A.in Economics (High Honors), *summa cum laude* ** \| Wake Forest University \| 2018 - 2022
+**B.S. in Mathematics (Honors) & B.A. in Economics (High Honors), *summa cum laude* ** \| Wake Forest University \| 2018 - 2022
 
 ## Honors and Awards
 
