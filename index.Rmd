@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <!---## Bio-->
 ## Bio
 
-Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/) interested in applied economic theory, industrial organization, and public economics. Previously, I have also worked on projects in ecological economics, law & economics, and labor economics.
+Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/) interested in mechanism design, market design, industrial organization, and public economics. Previously, I have also worked on various research and policy projects in ecological economics, law & economics, and labor economics.
 
 ## Education & Experience
 **PhD Student in Economics** \| UC Berkeley \| 2024 - Present
@@ -49,7 +49,7 @@ Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/
 
 ## Publication
 
-"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304380021003902) [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
+"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
 
 ## R Package
 
@@ -57,8 +57,9 @@ Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/
 
 ## Work in Progress
 
-"Modeling behavioral response to infectious diseases under information delay" (Honors thesis in Economics) with Frederick Chen and Chu A.(Alex) Yu. *R&R, Review of Economic Design (Special Issue: Economics of Epidemics)*. [[Draft]](https://drive.google.com/file/d/1Gn6-WgHxp7-ajnjCE0x6ntkDbG3G-Hjq/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1I93NrJagL-VebCUm8KMkyaHDAaSwEvSW/view?usp=sharing)
+"Modeling behavioral response to infectious diseases under information delay" (Honors thesis in Economics) with Frederick Chen and Chu A.(Alex) Yu. *R&R, Review of Economic Design (Special Issue: Economics of Epidemics)*.
 
+"Improving vaccine access in the developing world through a vaccine trial coalition" 
 <!---
 
 ## Publication
