@@ -25,7 +25,7 @@ knitr::opts_chunk$set(echo = FALSE)
 <!---## Bio-->
 ## Bio
 
-Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/) interested in mechanism design, market design, industrial organization, and public economics. Previously, I have also worked on various research and policy projects in ecological economics, law & economics, and labor economics.
+Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/) interested in applied economic theory, industrial organization, and health economics. Previously, I have also worked on research and policy projects in ecological economics, law & economics, and labor economics.
 
 ## Education & Experience
 **PhD Student in Economics** \| UC Berkeley \| 2024 - Present
@@ -47,19 +47,20 @@ Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/
 
 **Richter Scholarship** \| WFU \| Spring 2019
 
-## Publication
+## Work in Progress
 
-"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
+"Improving vaccine access in the developing world through a vaccine trial coalition"
 
 ## R Package
 
 "Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
 
-## Work in Progress
+## Pre-PhD Research
 
-"Modeling behavioral response to infectious diseases under information delay" (Honors thesis in Economics) with Frederick Chen and Chu A.(Alex) Yu. *R&R, Review of Economic Design (Special Issue: Economics of Epidemics)*.
+"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
 
-"Improving vaccine access in the developing world through a vaccine trial coalition" 
+"Modeling behavioral response to infectious diseases in an online experiment" with Frederick Chen and Chu A.(Alex) Yu. *Conditionally Accepted, Review of Economic Design (Special Issue: Economics of Epidemics)*.
+
 <!---
 
 ## Publication
