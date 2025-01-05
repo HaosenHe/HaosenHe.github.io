@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: "More"
 site: distill::distill_website
 ---
 
@@ -13,31 +13,6 @@ d-article p {
 }
 ```
 
-Place of Birth: [Jinan](https://en.wikipedia.org/wiki/Jinan), [Shandong](https://en.wikipedia.org/wiki/Shandong), China.
+齐明盛服 非礼不动
 
-
-Poem:
-
-### 自表
-
-登雩临风 禀仰太和
-
-曳杖清歌 直己陈德
-
-君子所性 博厚高明
-
-明如皎月 岂曰易污
-
-厚若华岱 岂曰易折
-
-坛宇隆隆 防表肃肃
-
-定乎内外 辩乎荣辱
-
-六经所详 先贤所发
-
-修身及家 平均天下
-
-或不能行 不伤我性
-
-存则尽事 没则吾宁
+去馋远色 贱货贵德
