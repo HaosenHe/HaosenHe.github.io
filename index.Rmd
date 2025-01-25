@@ -47,10 +47,6 @@ Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/
 
 **Richter Scholarship** \| WFU \| Spring 2019
 
-## Work in Progress
-
-"Improving vaccine access in the developing world through a vaccine trial coalition"
-
 ## R Package
 
 "Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
@@ -59,7 +55,7 @@ Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/
 
 "An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
 
-"Modeling behavioral response to infectious diseases in an online experiment" with Frederick Chen and Chu A.(Alex) Yu. *Conditionally Accepted, Review of Economic Design (Special Issue: Economics of Epidemics)*.
+"Modeling behavioral response to infectious diseases in an online experiment" with Frederick Chen and Chu A.(Alex) Yu. *Forthcoming, Review of Economic Design (Special Issue: Economics of Epidemics)*.
 
 <!---
 
