@@ -35,27 +35,15 @@ Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/
 
 **B.S. in Mathematics (Honors) & B.A. in Economics (High Honors), *summa cum laude* ** \| Wake Forest University \| 2018 - 2022
 
-## Honors and Awards
-
-**David & Lelia Farr Prize for Excellence in Mathematical Economics** \| WFU \| Spring 2022
-
-**CP West Award** \| Phi Beta Kappa \| Spring 2022
-
-**Wake Forest Research Fellowship** \| WFU \| Summer 2021
-
-**Walter Low Tatum Scholarship in Mathematics** \| WFU \| Fall 2020
-
-**Richter Scholarship** \| WFU \| Spring 2019
-
-## R Package
-
-"Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
-
 ## Publications
 
 "Modeling behavioral response to infectious diseases in an online experiment" with Frederick Chen and Chu A.(Alex) Yu. ***Review of Economic Design*** (2025).
 
 "An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
+
+## R Package
+
+"Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
 
 <!---
 
