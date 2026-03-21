@@ -23,17 +23,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <!---## Bio-->
-## Bio
+## Haosen He
 
-Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/) interested in mechanism design and market design. Previously, I have also worked on research and policy projects in ecological economics, law & economics, and labor economics.
-
-## Education & Experience
-**PhD Student in Economics** \| UC Berkeley \| 2024 - Present
-
-
-**Research Fellow (Law & Economics)** \| Stanford University \| 2022 - 2024
-
-**B.S. in Mathematics (Honors) & B.A. in Economics (High Honors), *summa cum laude* ** \| Wake Forest University \| 2018 - 2022
+I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/) interested in industrial organization and applied theory. Prior to Berkeley, I was an Empirical Research Fellow at Stanford Law School working with Professor [Alison Morantz](https://law.stanford.edu/alison-d-morantz/). I graduated summa cum laude from Wake Forest University in 2022 with a B.S. in Mathematics (Honors) & B.A. in Economics (High Honors).
 
 ## Publications
 
@@ -45,8 +37,28 @@ Hi! I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/
 
 "Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
 
-<!---
+## Teaching
 
+Graduate Student Instructor for ECON 201B: Economic Theory (PhD level) \| UC Berkeley \| Spring 2026
+
+Graduate Student Instructor for ECON 101A: Microeconomics (Quantitative) (undergraduate level) \| UC Berkeley \| Fall 2025
+
+
+## Honors and Awards
+
+**2026 Outstanding Graduate Student Instructor** \| UC Berkeley \| Spring 2026
+
+**David and Lelia Farr Prize for Excellence in Mathematical Economics** \| WFU \| Spring 2022
+
+**CP West Award** \| Phi Beta Kappa \| Spring 2022
+
+**Wake Forest Research Fellowship** \| WFU \| Summer 2021
+
+**Walter Low Tatum Scholarship in Mathematics** \| WFU \| Fall 2020
+
+**Richter Scholarship** \| WFU \| Spring 2019
+
+<!---
 ## Publication
 
 "An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304380021003902) [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
