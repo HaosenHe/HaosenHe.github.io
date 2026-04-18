@@ -1,5 +1,6 @@
 ---
 title: "Haosen He"
+description: "I am a PhD student in Economics at UC Berkeley. Research Interests: economics of digitization, applied economic theory, industrial organization. You can contact me at haosen_he.at.berkeley.edu."
 image: "img/haosen.jpg"
 links:
   - label: Berkeley Profile
