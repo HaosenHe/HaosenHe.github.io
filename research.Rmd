@@ -8,12 +8,17 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{css, echo = FALSE}
-d-article {
+/* Shrink the main page title */
+d-title h1 {
+  font-size: 2.2em; 
+}
+
+d-title, d-article {
   grid-template-columns: [screen-start] 1fr [text-start kicker-end] 2% 2% 2% 2% 2% 2% 2% 2% [text-end gutter-start] 2% [middle-end] 2% [page-end gutter-end] 1fr [screen-end];
   grid-column-gap: 10%;
 }
 
-body .article {
+body .title, body .article {
   max-width: 100%; /* Increase max-width to take more space */
 }
 
@@ -48,7 +53,7 @@ Optimal social media regulation (draft available upon request)
 
 <details>
 <summary>Abstract <i></i></summary>
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.95em;">
 
 Social media can create a collective trap: individuals may stay active on the platform not for the platform's intrinsic value, but simply to avoid social exclusion and the fear of missing out (FOMO). While standard economic intuition suggests correcting this externality with a Pigovian tax, the optimal regulation must also account for the distortionary effects of the platform's endogenous monetization strategy. I develop a model where a monopolistic platform balances subscription pricing and ad-driven quality degradation to exploit heterogeneous consumers. My framework reveals a fundamental tension between two opposing market failures: the FOMO-driven social trap that forces over-adoption, and classic monopoly pricing that drives under-adoption. I show that the optimal regulation depends on the platform's ad-monetization capability: regulators may need to subsidize subscription-heavy platforms to offset monopoly exclusion; tax mixed-model platforms to curb ad-driven over-expansion; and impose a total ban when extreme ad-monetization destroys the platform's intrinsic value, leaving only a purely extractive collective trap.
 
@@ -59,7 +64,7 @@ A theory of waiting
 
 <details>
 <summary>Abstract <i></i></summary>
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.95em;">
 
 I study continuous-time stopping games with stochastic monitoring. Players in such games choose the time to take a certain action and observe others' actions through a monitoring technology with stochastic delay. Payoffs depend on the public state and each player's action time. Since actions are only imperfectly and asynchronously observed, there is no single public history, and players infer from waiting.
 
@@ -73,7 +78,7 @@ I study continuous-time stopping games with stochastic monitoring. Players in su
 
 <details>
 <summary>Abstract<i></i></summary>
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.95em;">
 
 We formulate and numerically solve a game-theoretic model of rational agents’ self-protective actions in an epidemic game. We prove the existence of an equilibrium and show that our model can give rise to multiple equilibria. We then compare our model simulation results with data collected from real human players in an online experiment conducted by Chen et al. (2013). Compared with game-theoretic agents, human players choose to self-protect at a higher rate and experience a lower disease prevalence. However, they receive similar endgame outcomes as measured by payoffs. In addition, human players’ decisions are dependent on their infection history, and they are less responsive to changes in disease prevalence compared to game-theoretic agents. Our results suggest that human players in the epidemic game differ substantially from fully-rational, forward-looking, strategic agents in terms of decision-making mechanisms and several measures of game outcomes.
 
@@ -84,9 +89,11 @@ We formulate and numerically solve a game-theoretic model of rational agents’ 
 
 <details>
 <summary>Abstract <i></i></summary>
-<div style="font-size: 0.9em;">
+<div style="font-size: 0.95em;">
 
 Wildlife crop consumption is a worldwide problem. This paper builds on the theoretical framework of profit and utility maximization from economics as established in the theory of optimal foraging, bringing this perspective to the issue of wildlife crop consumption by testing whether elephants forage for crops in an optimal way. Using combinatorial optimization in an agent-based model, in which elephants’ objective is to find a valid walk that maximizes their energy balance. We used empirical data from GPS collars on African savanna elephants to train and test the model.When we focused solely on which terrain blocks the elephants of GNP visit and spend time in, our ABM got 56 percent of these blocks correct. Our ABM performed roughly 25 percent better than two alternative models, including the random walk model. In both subsamples of data that we looked at, the ABM performed better in terms of fitting the data on real walks than the alternative models. The ABM's performance improved, and the alternative models’ performance worsened, when we only looked at data on real walks that involve crop consumption. This suggests that there is more randomness involved when elephants are engaged in foraging activity that do not include crop consumption. At the same time, elephant walks involving crop consumption seem to more closely follow optimizing principles. Findings from this ABM approach support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration. It may give conservationists and policy-makers a starting point to use in formulating policies to minimize the harms and costs that result from elephant crop consumption.
 
 </div>
 </details>
+
+## Other Papers

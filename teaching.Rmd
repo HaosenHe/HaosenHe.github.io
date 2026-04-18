@@ -1,0 +1,60 @@
+---
+title: "Teaching"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{css, echo = FALSE}
+/* Shrink the main page title */
+d-title h1 {
+  font-size: 2.2em; 
+}
+
+d-title, d-article {
+  grid-template-columns: [screen-start] 1fr [text-start kicker-end] 2% 2% 2% 2% 2% 2% 2% 2% [text-end gutter-start] 2% [middle-end] 2% [page-end gutter-end] 1fr [screen-end];
+  grid-column-gap: 10%;
+}
+
+body .title, body .article {
+  max-width: 100%; /* Increase max-width to take more space */
+}
+
+/* Additional CSS for side-by-side layout */
+.content-section {
+  display: flex;
+  justify-content: space-between; /* or 'space-around' to include some space between columns */
+  align-items: flex-start;
+}
+
+.left-column {
+  width: 50%; /* Adjust width as necessary */
+}
+
+.right-column {
+  width: 50%; /* Adjust width as necessary */
+}
+
+.right-align-header {
+  text-align: right;
+}
+
+/* Optional: if you want to ensure there is a little gap between the columns */
+.content-section > div {
+  padding: 0 10px;
+}
+```
+
+I'm the recipient of <b> 2026 Outstanding Graduate Student Instructor Award </b> at UC Berkeley.
+
+### Teaching Experience
+
+Graduate Student Instructor for ECON 201B: Economic Theory (PhD level) | UC Berkeley | Spring 2026
+
+Graduate Student Instructor for ECON 101A: Microeconomics (Quantitative) | UC Berkeley | Fall 2025
+
+Reader for ECON C103: Introduction to Mathematical Economics | UC Berkeley | Fall 2024 and Spring 2025
+
+Teaching Assistant for MTH 254: Optimization Theory | Wake Forest University | Fall 2021

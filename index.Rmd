@@ -2,16 +2,12 @@
 title: "Haosen He"
 image: "img/haosen.jpg"
 links:
-  - label: ResearchGate
-    url: "https://www.researchgate.net/profile/Haosen-He"
   - label: Berkeley Profile
     url: "https://econ.berkeley.edu/people/graduate-student-profiles?page=1"
-  #- label: CV
-  #  url: "https://drive.google.com/file/d/1KGP3rDm72GsrzCyErD6rjwOik4Xelaqf/view?usp=sharing"
+  - label: CV
+    url: "https://drive.google.com/file/d/1nyKfT-gUvxRMHysFLTQnjnwpWU1sC5LS/view?usp=sharing"
   - label: GitHub
     url: "https://github.com/HaosenHe"
-  - label: Email
-    url: "mailto:haosen_he@berkeley.edu"
 
 output:
   postcards::trestles
@@ -24,120 +20,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <!---## Bio-->
 
-I'm an Economics PhD student at [UC Berkeley](https://www.econ.berkeley.edu/) interested in industrial organization and microeconomic theory. 
+I'm a PhD student in Economics at [UC Berkeley](https://www.econ.berkeley.edu/). 
 
-<br>
+Research Interests:
 
-## Work in Progress
+* Economics of digitization
 
-*Optimal Social Media Regulation* (draft available upon request)
+* Applied economic theory
 
-<details>
-<summary>Abstract <i></i></summary>
-<div style="font-size: 0.9em;">
+* Industrial organization
 
-Social media can create a collective trap: individuals may stay active on the platform not for the platform's intrinsic value, but simply to avoid social exclusion and the fear of missing out (FOMO). While standard economic intuition suggests correcting this externality with a Pigovian tax, the optimal regulation must also account for the distortionary effects of the platform's endogenous monetization strategy. I develop a model where a monopolistic platform balances subscription pricing and ad-driven quality degradation to exploit heterogeneous consumers. My framework reveals a fundamental tension between two opposing market failures: the FOMO-driven social trap that forces over-adoption, and classic monopoly pricing that drives under-adoption. I show that the optimal regulation depends on the platform's ad-monetization capability: regulators may need to subsidize subscription-heavy platforms to offset monopoly exclusion; tax mixed-model platforms to curb ad-driven over-expansion; and impose a total ban when extreme ad-monetization destroys the platform's intrinsic value, leaving only a purely extractive collective trap.
-
-</div>
-</details>
-<br>
-
-*A Theory of Waiting*
-
-<details>
-<summary>Abstract <i></i></summary>
-<div style="font-size: 0.9em;">
-
-I study continuous-time stopping games with stochastic monitoring. Players in such games choose the time to take a certain action and observe others' actions through a monitoring technology with stochastic delay. Payoffs depend on the public state and each player's action time. Since actions are only imperfectly and asynchronously observed, there is no single public history, and players infer from waiting.
-
-</div>
-</details>
-<br>
-
-## Publications
-
-"Modeling behavioral response to infectious diseases in an online experiment" with Frederick Chen and Chu A.(Alex) Yu. ***Review of Economic Design*** (2025).
-
-<details>
-<summary>Abstract<i></i></summary>
-<div style="font-size: 0.9em;">
-
-We formulate and numerically solve a game-theoretic model of rational agents’ self-protective actions in an epidemic game. We prove the existence of an equilibrium and show that our model can give rise to multiple equilibria. We then compare our model simulation results with data collected from real human players in an online experiment conducted by Chen et al. (2013). Compared with game-theoretic agents, human players choose to self-protect at a higher rate and experience a lower disease prevalence. However, they receive similar endgame outcomes as measured by payoffs. In addition, human players’ decisions are dependent on their infection history, and they are less responsive to changes in disease prevalence compared to game-theoretic agents. Our results suggest that human players in the epidemic game differ substantially from fully-rational, forward-looking, strategic agents in terms of decision-making mechanisms and several measures of game outcomes.
-
-</div>
-</details>
-<br>
-
-"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
-
-<details>
-<summary>Abstract <i></i></summary>
-<div style="font-size: 0.9em;">
-
-Wildlife crop consumption is a worldwide problem. This paper builds on the theoretical framework of profit and utility maximization from economics as established in the theory of optimal foraging, bringing this perspective to the issue of wildlife crop consumption by testing whether elephants forage for crops in an optimal way. Using combinatorial optimization in an agent-based model, in which elephants’ objective is to find a valid walk that maximizes their energy balance. We used empirical data from GPS collars on African savanna elephants to train and test the model.When we focused solely on which terrain blocks the elephants of GNP visit and spend time in, our ABM got 56 percent of these blocks correct. Our ABM performed roughly 25 percent better than two alternative models, including the random walk model. In both subsamples of data that we looked at, the ABM performed better in terms of fitting the data on real walks than the alternative models. The ABM's performance improved, and the alternative models’ performance worsened, when we only looked at data on real walks that involve crop consumption. This suggests that there is more randomness involved when elephants are engaged in foraging activity that do not include crop consumption. At the same time, elephant walks involving crop consumption seem to more closely follow optimizing principles. Findings from this ABM approach support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration. It may give conservationists and policy-makers a starting point to use in formulating policies to minimize the harms and costs that result from elephant crop consumption.
-
-</div>
-</details>
-<br>
-
-## R Package
-
-"Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
-
-<br>
-
-## Teaching
-
-Graduate Student Instructor for ECON 201B: Economic Theory (PhD level) \| UC Berkeley \| Spring 2026
-
-Graduate Student Instructor for ECON 101A: Microeconomics (Quantitative) (undergraduate level) \| UC Berkeley \| Fall 2025
-
-<br>
-
-## Honors and Awards
-
-**2026 Outstanding Graduate Student Instructor** \| UC Berkeley \| Spring 2026
-
-**David and Lelia Farr Prize for Excellence in Mathematical Economics** \| WFU \| Spring 2022
-
-**CP West Award** \| Phi Beta Kappa \| Spring 2022
-
-**Wake Forest Research Fellowship** \| WFU \| Summer 2021
-
-**Walter Low Tatum Scholarship in Mathematics** \| WFU \| Fall 2020
-
-**Richter Scholarship** \| WFU \| Spring 2019
-
-<!---
-## Publication
-
-"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304380021003902) [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
-
-## Work in Progress
-
-"Modeling behavioral response to infectious diseases under information delay" (Honors thesis in Economics) with Frederick Chen and Chu A.(Alex) Yu. *R&R, Review of Economic Design (Special Issue: Economics of Epidemics)*. [[Draft]](https://drive.google.com/file/d/1Gn6-WgHxp7-ajnjCE0x6ntkDbG3G-Hjq/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1I93NrJagL-VebCUm8KMkyaHDAaSwEvSW/view?usp=sharing)
-
-"Improving vaccine access in the developing world through a vaccine trial coalition" [[Slides]](https://drive.google.com/file/d/1dFORgEgvqlPRVuHfSpvXvmhO3R6crbHZ/view?usp=sharing)
-
-## R Package
-
-"Overlapping Group Elastic Net Using the Orthogonalizing EM (OEM) Algorithm ([ovganet](https://github.com/HaosenHe/ovganet))." with Alison Morantz.
-
-## Education
-
-**Wake Forest University** \| Winston-Salem, NC
-
-**Mathematics B.S. (Honors)** and **Economics B.A. (High Honors), *summa cum laude*** | August 2018 - May 2022
-
-## Honors and Awards
-
-**David and Lelia Farr Prize for Excellence in Mathematical Economics** \| WFU \| Spring 2022
-
-**CP West Award** (for seniors graduating with the highest GPA) \| Phi Beta Kappa \| Spring 2022
-
-**Wake Forest Research Fellowship** \| WFU \| Summer 2021
-
-**Walter Low Tatum Scholarship in Mathematics** \| WFU \| Fall 2020
-
-**Richter Scholarship** \| WFU \| Spring 2019
--->
+You can contact me at haosen_he.at.berkeley.edu.
