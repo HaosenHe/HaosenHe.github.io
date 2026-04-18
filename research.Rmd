@@ -1,5 +1,5 @@
 ---
-title: "Current and Past Projects"
+title: "Research"
 site: distill::distill_website
 ---
 
@@ -9,11 +9,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{css, echo = FALSE}
 d-article {
-grid-template-columns: [screen-start] 1fr [text-start kicker-end] 2% 2% 2% 2% 2% 2% 2% 2% [text-end gutter-start] 2% [middle-end] 2% [page-end gutter-end] 1fr [screen-end];
-grid-column-gap: 10%;
+  grid-template-columns: [screen-start] 1fr [text-start kicker-end] 2% 2% 2% 2% 2% 2% 2% 2% [text-end gutter-start] 2% [middle-end] 2% [page-end gutter-end] 1fr [screen-end];
+  grid-column-gap: 10%;
 }
 
-<style>
 body .article {
   max-width: 100%; /* Increase max-width to take more space */
 }
@@ -41,92 +40,53 @@ body .article {
 .content-section > div {
   padding: 0 10px;
 }
-</style>
 ```
-
-## Publication
-
-### [An agent-based model of elephant crop consumption walks using combinatorial optimization](https://www.sciencedirect.com/science/article/pii/S0304380021003902)
-
-<div class="content-section">
-  <div class="left-column">
-
-  with Erin Buchholtz, Frederick H. Chen, Susanne Vogel, and Chu A.(Alex) Yu
-  
-  *Ecological Modelling*. Volume 464, February 2022, 109852
-  
-  **Abstract**: This paper builds on the framework of utility maximization from economics with the theory of optimal foraging to bring an economic perspective to the issue of elephant crop consumption. Using an agent-based model (ABM) in which elephant agents maximize their energy balance subject to time and movement constraints, we correctly predicted 56% of terrain blocks visited by elephant crop-raiders in Gorongosa National Park, Mozambique from December 2015 to December 2016, which is a 25% improvement in performance compared with two existing models. Findings from this ABM support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration.
-
-[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304380021003902) [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
-
-  </div>
-  <div class="right-column">
-```{r fig.align='left', out.width='100%', echo=FALSE}
-knitr::include_graphics("img/elephant.jpg")
-```
-<span style="color: #d3d3d3;font-size: 10px;">Big 5 - Elephant @ Caitlin, CC-BY-2.0</span>
-  </div>
-</div>
 
 ## Work in Progress
 
-### Modeling behavioral response to infectious diseases under information delay
+Optimal social media regulation (draft available upon request)
 
-<div class="content-section">
-  <div class="left-column">
-with Frederick H. Chen and Chu A.(Alex) Yu 
+<details>
+<summary>Abstract <i></i></summary>
+<div style="font-size: 0.9em;">
 
-Revised and Resubmitted, *Review of Economic Design (Special Issue: Economics of Epidemics)*  
+Social media can create a collective trap: individuals may stay active on the platform not for the platform's intrinsic value, but simply to avoid social exclusion and the fear of missing out (FOMO). While standard economic intuition suggests correcting this externality with a Pigovian tax, the optimal regulation must also account for the distortionary effects of the platform's endogenous monetization strategy. I develop a model where a monopolistic platform balances subscription pricing and ad-driven quality degradation to exploit heterogeneous consumers. My framework reveals a fundamental tension between two opposing market failures: the FOMO-driven social trap that forces over-adoption, and classic monopoly pricing that drives under-adoption. I show that the optimal regulation depends on the platform's ad-monetization capability: regulators may need to subsidize subscription-heavy platforms to offset monopoly exclusion; tax mixed-model platforms to curb ad-driven over-expansion; and impose a total ban when extreme ad-monetization destroys the platform's intrinsic value, leaving only a purely extractive collective trap.
 
-**Abstract**: We formulate and numerically solve a game-theoretic model of rational agents' self-protective actions in an epidemic game with information delay. We show that our model can give rise to multiple equilibria. We then compare our model simulation results with data collected from human players in an online experiment conducted by Chen et al. (2013). Compared with game-theoretic agents, human players receive poorer endgame outcomes as measured by payoffs. In addition, human players' decisions are dependent on their infection history, and they are less responsive to changes in disease prevalence compared to game-theoretic agents. Our results suggest that human players in the epidemic game differ substantially from fully-rational, forward-looking, strategic agents in terms of both game outcomes and decision-making mechanisms.
-
-[[Draft]](https://drive.google.com/file/d/1Gn6-WgHxp7-ajnjCE0x6ntkDbG3G-Hjq/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1I93NrJagL-VebCUm8KMkyaHDAaSwEvSW/view?usp=sharing)
-  </div>
-  <div class="right-column">
-```{r fig.align='left', out.width='100%', echo=FALSE}
-knitr::include_graphics("img/mask.jpg")
-```
-<span style="color: #d3d3d3;font-size: 10px;">Moai statues will also wear mask to prevent the spread of the Covid-19! @ MIKI Yoshihito, CC-BY-2.0</span>
 </div>
+</details>
+
+A theory of waiting
+
+<details>
+<summary>Abstract <i></i></summary>
+<div style="font-size: 0.9em;">
+
+I study continuous-time stopping games with stochastic monitoring. Players in such games choose the time to take a certain action and observe others' actions through a monitoring technology with stochastic delay. Payoffs depend on the public state and each player's action time. Since actions are only imperfectly and asynchronously observed, there is no single public history, and players infer from waiting.
+
 </div>
+</details>
 
----
 
-### Improving vaccine access in the developing world through a vaccine trial coalition
+## Publications
 
-<div class="content-section">
-  <div class="left-column">
+"Modeling behavioral response to infectious diseases in an online experiment" with Frederick Chen and Chu A.(Alex) Yu. ***Review of Economic Design*** (2025).
 
-**Abstract**: Clinical trials for new drugs and vaccines are increasingly being conducted in developing countries due to the lower costs of recruiting trial participants and clinicians in these countries. Nonetheless, many developing countries that participated in vaccine trials have difficulties accessing the same vaccines they helped develop. A clinical trial coalition of developing countries will allow member states to collectively bargain with pharmaceutical companies for better access to vaccines during the initial vaccine roll-out, complementing programs such as COVAX, which provides delayed access to vaccines for developing countries when they become widely available. We analyze the feasibility of such an international clinical trial oligopoly using data on COVID-19 vaccine trials and a game-theoretic model involving pharmaceutical companies, developing countries, and developed countries. 
+<details>
+<summary>Abstract<i></i></summary>
+<div style="font-size: 0.9em;">
 
-[[Slides]](https://drive.google.com/file/d/1dFORgEgvqlPRVuHfSpvXvmhO3R6crbHZ/view?usp=sharing)
-   </div>
-  <div class="right-column">
-```{r fig.align='left', out.width='100%', echo=FALSE}
-knitr::include_graphics("img/vaccine.jpg")
-```
-  </div>
+We formulate and numerically solve a game-theoretic model of rational agents’ self-protective actions in an epidemic game. We prove the existence of an equilibrium and show that our model can give rise to multiple equilibria. We then compare our model simulation results with data collected from real human players in an online experiment conducted by Chen et al. (2013). Compared with game-theoretic agents, human players choose to self-protect at a higher rate and experience a lower disease prevalence. However, they receive similar endgame outcomes as measured by payoffs. In addition, human players’ decisions are dependent on their infection history, and they are less responsive to changes in disease prevalence compared to game-theoretic agents. Our results suggest that human players in the epidemic game differ substantially from fully-rational, forward-looking, strategic agents in terms of decision-making mechanisms and several measures of game outcomes.
+
 </div>
+</details>
 
-## Some of my fun undergraduate projects
+"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
 
-### [Modeling Language Death](https://drive.google.com/file/d/19qbuV0QyEoR57ZkTQw6ZE3MxUHjJbjis/view?usp=sharing)
-```{r, fig.align='center', out.width='50%', echo=FALSE}
-knitr::include_graphics("img/language.png")
-```
-### [Modeling the Dynamics of National Income](https://drive.google.com/file/d/1JB53sczPZRfsZxH0sHaFlc4Ep4RKVClw/view?usp=drive_link)
-```{r, fig.align='center', out.width='50%', echo=FALSE}
-knitr::include_graphics("img/GDP.PNG")
-```
-### [Image Clustering using UMAP](https://drive.google.com/file/d/1ioyFSLdllbfNyXztGsf74DJXo7h5Jcea/view?usp=drive_link)
-```{r, fig.align='center', out.width='50%', echo=FALSE}
-knitr::include_graphics("img/four_KMeans.png")
-```
-### [Law of Large Numbers & Central Limit Theorem](https://drive.google.com/file/d/1SFwy7gszQD-Ce0rma_i1F1plnqkkBv5C/view?usp=drive_link)
-```{r, fig.align='center', out.width='50%', echo=FALSE}
-knitr::include_graphics("img/clt.png")
-```
-### [Kalman Filter and Its Applications in Econometrics](https://drive.google.com/file/d/1caH5bXQue1Q0AIBeNS6gk2sRCeDdiN-P/view?usp=sharing)
-```{r, fig.align='center', out.width='50%', echo=FALSE}
-knitr::include_graphics("img/KFflow.PNG")
-```
+<details>
+<summary>Abstract <i></i></summary>
+<div style="font-size: 0.9em;">
+
+Wildlife crop consumption is a worldwide problem. This paper builds on the theoretical framework of profit and utility maximization from economics as established in the theory of optimal foraging, bringing this perspective to the issue of wildlife crop consumption by testing whether elephants forage for crops in an optimal way. Using combinatorial optimization in an agent-based model, in which elephants’ objective is to find a valid walk that maximizes their energy balance. We used empirical data from GPS collars on African savanna elephants to train and test the model.When we focused solely on which terrain blocks the elephants of GNP visit and spend time in, our ABM got 56 percent of these blocks correct. Our ABM performed roughly 25 percent better than two alternative models, including the random walk model. In both subsamples of data that we looked at, the ABM performed better in terms of fitting the data on real walks than the alternative models. The ABM's performance improved, and the alternative models’ performance worsened, when we only looked at data on real walks that involve crop consumption. This suggests that there is more randomness involved when elephants are engaged in foraging activity that do not include crop consumption. At the same time, elephant walks involving crop consumption seem to more closely follow optimizing principles. Findings from this ABM approach support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration. It may give conservationists and policy-makers a starting point to use in formulating policies to minimize the harms and costs that result from elephant crop consumption.
+
+</div>
+</details>
