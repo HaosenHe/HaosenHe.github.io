@@ -49,13 +49,27 @@ body .title, body .article {
 
 ## Work in Progress
 
-Optimal social media regulation (draft available upon request)
+[Optimal social media regulation](https://drive.google.com/file/d/1rBVQ31T7YhvCj82E7MqbEfimYlS-ay9I/view?usp=sharing)
 
 <details>
 <summary>Abstract <i></i></summary>
 <div style="font-size: 0.95em;">
 
-Social media can create a collective trap: individuals may stay active on the platform not for the platform's intrinsic value, but simply to avoid social exclusion and the fear of missing out (FOMO). While standard economic intuition suggests correcting this externality with a Pigovian tax, the optimal regulation must also account for the distortionary effects of the platform's endogenous monetization strategy. I develop a model where a monopolistic platform balances subscription pricing and ad-driven quality degradation to exploit heterogeneous consumers. My framework reveals a fundamental tension between two opposing market failures: the FOMO-driven social trap that forces over-adoption, and classic monopoly pricing that drives under-adoption. I show that the optimal regulation depends on the platform's ad-monetization capability: regulators may need to subsidize subscription-heavy platforms to offset monopoly exclusion; tax mixed-model platforms to curb ad-driven over-expansion; and impose a total ban when extreme ad-monetization destroys the platform's intrinsic value, leaving only a purely extractive collective trap.
+Social media can create a collective trap: individuals may stay active on a platform
+not for its intrinsic value, but to avoid social exclusion and the fear of missing out
+(FOMO). While standard economic intuition suggests correcting this externality with
+a Pigovian tax, optimal regulation must also account for the platform’s endogenous
+monetization strategy and the non-contractibility of its advertising choices. I develop
+a model where a monopolistic platform balances subscription pricing and ad-driven
+quality degradation to exploit heterogeneous consumers. I show that the platform’s
+optimal menu has at most two items, and under a standard distributional assumption it
+collapses to a single posted price. My framework reveals a fundamental tension between
+the FOMO-driven social trap that forces over-adoption and classic monopoly pricing
+that drives under-adoption. I show that the optimal regulation depends on the plat-
+form’s ad-monetization capability: the regulator may need to subsidize subscription-
+heavy platforms to offset monopoly exclusion; tax mixed-model platforms to curb ad-
+driven over-expansion; and impose a total ban when extreme ad-monetization destroys
+the platform’s intrinsic value, leaving only a purely extractive collective trap.
 
 </div>
 </details>
