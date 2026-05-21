@@ -49,7 +49,7 @@ body .title, body .article {
 
 ## Work in Progress
 
-[Optimal social media regulation](https://drive.google.com/file/d/1rBVQ31T7YhvCj82E7MqbEfimYlS-ay9I/view?usp=sharing)
+<b>Optimal social media regulation</b> [[SSRN Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6806518) 
 
 <details>
 <summary>Abstract <i></i></summary>
