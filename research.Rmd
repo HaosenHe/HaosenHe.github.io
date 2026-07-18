@@ -49,7 +49,7 @@ body .title, body .article {
 
 ## Work in Progress
 
-<b>Optimal social media regulation</b> [[SSRN Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6806518) 
+<b>Optimal social media regulation</b> [[SSRN Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6806518)   [[SAET 2026 Slides]](https://drive.google.com/file/d/1Du4PN5s7-V1MbEP31QLJDfi117lZ_jl8/view?usp=sharing) 
 
 <details>
 <summary>Abstract <i></i></summary>
@@ -74,16 +74,6 @@ the platform’s intrinsic value, leaving only a purely extractive collective tr
 </div>
 </details>
 
-A theory of waiting
-
-<details>
-<summary>Abstract <i></i></summary>
-<div style="font-size: 0.95em;">
-
-I study continuous-time stopping games with stochastic monitoring. Players in such games choose the time to take a certain action and observe others' actions through a monitoring technology with stochastic delay. Payoffs depend on the public state and each player's action time. Since actions are only imperfectly and asynchronously observed, there is no single public history, and players infer from waiting.
-
-</div>
-</details>
 
 
 ## Publications

@@ -6,7 +6,7 @@ links:
   - label: Berkeley Profile
     url: "https://econ.berkeley.edu/people/graduate-student-profiles?page=1"
   - label: CV
-    url: "https://drive.google.com/file/d/1nyKfT-gUvxRMHysFLTQnjnwpWU1sC5LS/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1prhInfhRQ5S4XDZ0WZVn9sY_bUOrDcwf/view?usp=sharing"
   - label: GitHub
     url: "https://github.com/HaosenHe"
 
