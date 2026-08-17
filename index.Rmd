@@ -20,15 +20,28 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <!---## Bio-->
+### *Welcome!*
 
-I'm a PhD student in Economics at [UC Berkeley](https://www.econ.berkeley.edu/). 
+I'm a PhD student in Economics at [UC Berkeley](https://www.econ.berkeley.edu/). I'm interested in:
 
-Research Interests:
+* Economics of Digitization
 
-* Economics of digitization
+* Economics of Regulation
 
-* Applied economic theory
+* Industrial Organization
 
-* Industrial organization
+* Applied Economic Theory
 
-You can contact me at haosen_he.at.berkeley.edu.
+You can find my research [here](https://haosenhe.github.io/research.html). 
+
+Contact: haosen_he [at] berkeley.edu.
+
+---
+
+### *What's New:*
+
+*July 2026*: I'm presenting at [SAET 2026](https://saet.uiowa.edu/2026-conference/)'s session on the The Economics of Social Media in Rio de Janeiro on July 17, 2026.
+
+*May 2026*: Check out my new [working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6806518) on how to optimally regulate social media platforms.
+
+
