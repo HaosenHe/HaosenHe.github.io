@@ -10,49 +10,78 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{css, echo = FALSE}
 /* Shrink the main page title */
 d-title h1 {
-  font-size: 2.2em; 
+  font-size: 2.2em;
 }
 
+/* Widen the main content column */
 d-title, d-article {
   grid-template-columns: [screen-start] 1fr [text-start kicker-end] 2% 2% 2% 2% 2% 2% 2% 2% [text-end gutter-start] 2% [middle-end] 2% [page-end gutter-end] 1fr [screen-end];
   grid-column-gap: 10%;
 }
 
 body .title, body .article {
-  max-width: 100%; /* Increase max-width to take more space */
+  max-width: 100%;
 }
 
-/* Additional CSS for side-by-side layout */
-.content-section {
-  display: flex;
-  justify-content: space-between; /* or 'space-around' to include some space between columns */
-  align-items: flex-start;
+/* Tighten the vertical rhythm: trim the big gap under the page title
+   and the empty setup chunk distill inserts before the first heading. */
+d-article {
+  padding-top: 0.75rem;
 }
 
-.left-column {
-  width: 50%; /* Adjust width as necessary */
+d-article > .layout-chunk:first-child {
+  display: none;
 }
 
-.right-column {
-  width: 50%; /* Adjust width as necessary */
+/* Section headings: keep them smaller than the page title (h1 is ~35px) */
+d-article h2 {
+  font-size: 1.75rem;
+  margin: 1.5em 0 0.6em 0;
+  padding-bottom: 0.25em;
+  border-bottom: 2px solid #ececec;
 }
 
-.right-align-header {
-  text-align: right;
+d-article > h2:first-of-type {
+  margin-top: 0.5em;
 }
 
-/* Optional: if you want to ensure there is a little gap between the columns */
-.content-section > div {
-  padding: 0 10px;
+/* Paper entry cards (grid items don't collapse margins, so keep these small) */
+.paper {
+  margin: 0.5em 0;
+  padding: 0.1em 0 0.1em 1em;
+  border-left: 3px solid #d9d9d9;
+}
+
+.paper p {
+  margin: 0.2em 0;
+}
+
+.paper .status {
+  color: #5f6368;
+  font-size: 0.95em;
+}
+
+/* Abstract toggle */
+.paper details {
+  margin-top: 0.35em;
+}
+
+.paper summary {
+  cursor: pointer;
+  color: #003262;
+  font-size: 0.92em;
 }
 ```
 
 ## Work in Progress
 
-<b>Optimal social media regulation</b> [[SSRN Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6806518)   [[SAET 2026 Slides]](https://drive.google.com/file/d/1Du4PN5s7-V1MbEP31QLJDfi117lZ_jl8/view?usp=sharing) 
+::: {.paper}
+**Optimal social media regulation** [[SSRN Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6806518) [[SAET 2026 Slides]](https://drive.google.com/file/d/1Du4PN5s7-V1MbEP31QLJDfi117lZ_jl8/view?usp=sharing)
+
+[Submitted, ***AEJ: Micro***]{.status}
 
 <details>
-<summary>Abstract <i></i></summary>
+<summary>Abstract</summary>
 <div style="font-size: 0.95em;">
 
 Social media can create a collective trap: individuals may stay active on a platform
@@ -65,39 +94,49 @@ quality degradation to exploit heterogeneous consumers. I show that the platform
 optimal menu has at most two items, and under a standard distributional assumption it
 collapses to a single posted price. My framework reveals a fundamental tension between
 the FOMO-driven social trap that forces over-adoption and classic monopoly pricing
-that drives under-adoption. I show that the optimal regulation depends on the plat-
-form’s ad-monetization capability: the regulator may need to subsidize subscription-
-heavy platforms to offset monopoly exclusion; tax mixed-model platforms to curb ad-
-driven over-expansion; and impose a total ban when extreme ad-monetization destroys
+that drives under-adoption. I show that the optimal regulation depends on the platform’s ad-monetization capability: the regulator may need to subsidize subscription-heavy platforms to offset monopoly exclusion; tax mixed-model platforms to curb ad-driven over-expansion; and impose a total ban when extreme ad-monetization destroys
 the platform’s intrinsic value, leaving only a purely extractive collective trap.
 
 </div>
 </details>
+:::
 
-<b>Collective bargaining for global vaccine equity</b>
+::: {.paper}
+**"Thinking on a Budget: Revealed Preferences over Computational Resources in LLMs"** with Mingduo Zhao
+:::
+
+::: {.paper}
+**"Optimal Auditing of Manipulable Claims"**
+:::
+
+::: {.paper}
+**"Trials for Access: Vaccine Development, Bargaining, and Global Allocation"**
+:::
 
 ## Publications
 
-"Modeling behavioral response to infectious diseases in an online experiment" with Frederick Chen and Chu A.(Alex) Yu. ***Review of Economic Design*** (2025).
+::: {.paper}
+**"Modeling behavioral response to infectious diseases in an online experiment"** with Frederick Chen and Chu A. (Alex) Yu. ***Review of Economic Design*** (2025).
 
 <details>
-<summary>Abstract<i></i></summary>
+<summary>Abstract</summary>
 <div style="font-size: 0.95em;">
 
 We formulate and numerically solve a game-theoretic model of rational agents’ self-protective actions in an epidemic game. We prove the existence of an equilibrium and show that our model can give rise to multiple equilibria. We then compare our model simulation results with data collected from real human players in an online experiment conducted by Chen et al. (2013). Compared with game-theoretic agents, human players choose to self-protect at a higher rate and experience a lower disease prevalence. However, they receive similar endgame outcomes as measured by payoffs. In addition, human players’ decisions are dependent on their infection history, and they are less responsive to changes in disease prevalence compared to game-theoretic agents. Our results suggest that human players in the epidemic game differ substantially from fully-rational, forward-looking, strategic agents in terms of decision-making mechanisms and several measures of game outcomes.
 
 </div>
 </details>
+:::
 
-"An agent-based model of elephant crop consumption walks using combinatorial optimization" with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A.(Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
+::: {.paper}
+**"An agent-based model of elephant crop consumption walks using combinatorial optimization"** with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A. (Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
 
 <details>
-<summary>Abstract <i></i></summary>
+<summary>Abstract</summary>
 <div style="font-size: 0.95em;">
 
-Wildlife crop consumption is a worldwide problem. This paper builds on the theoretical framework of profit and utility maximization from economics as established in the theory of optimal foraging, bringing this perspective to the issue of wildlife crop consumption by testing whether elephants forage for crops in an optimal way. Using combinatorial optimization in an agent-based model, in which elephants’ objective is to find a valid walk that maximizes their energy balance. We used empirical data from GPS collars on African savanna elephants to train and test the model.When we focused solely on which terrain blocks the elephants of GNP visit and spend time in, our ABM got 56 percent of these blocks correct. Our ABM performed roughly 25 percent better than two alternative models, including the random walk model. In both subsamples of data that we looked at, the ABM performed better in terms of fitting the data on real walks than the alternative models. The ABM's performance improved, and the alternative models’ performance worsened, when we only looked at data on real walks that involve crop consumption. This suggests that there is more randomness involved when elephants are engaged in foraging activity that do not include crop consumption. At the same time, elephant walks involving crop consumption seem to more closely follow optimizing principles. Findings from this ABM approach support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration. It may give conservationists and policy-makers a starting point to use in formulating policies to minimize the harms and costs that result from elephant crop consumption.
+Wildlife crop consumption is a worldwide problem. This paper builds on the theoretical framework of profit and utility maximization from economics as established in the theory of optimal foraging, bringing this perspective to the issue of wildlife crop consumption by testing whether elephants forage for crops in an optimal way. Using combinatorial optimization in an agent-based model, in which elephants’ objective is to find a valid walk that maximizes their energy balance. We used empirical data from GPS collars on African savanna elephants to train and test the model. When we focused solely on which terrain blocks the elephants of GNP visit and spend time in, our ABM got 56 percent of these blocks correct. Our ABM performed roughly 25 percent better than two alternative models, including the random walk model. In both subsamples of data that we looked at, the ABM performed better in terms of fitting the data on real walks than the alternative models. The ABM's performance improved, and the alternative models’ performance worsened, when we only looked at data on real walks that involve crop consumption. This suggests that there is more randomness involved when elephants are engaged in foraging activity that does not include crop consumption. At the same time, elephant walks involving crop consumption seem to more closely follow optimizing principles. Findings from this ABM approach support ecological understanding of elephant crop foraging, highlighting the optimal movements involved in crop foraging events as well as the importance of trespassing costs and landscape configuration. It may give conservationists and policy-makers a starting point to use in formulating policies to minimize the harms and costs that result from elephant crop consumption.
 
 </div>
 </details>
-
-## Other Papers
+:::
