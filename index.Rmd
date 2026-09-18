@@ -11,7 +11,14 @@ links:
     url: "https://github.com/HaosenHe"
 
 output:
-  postcards::trestles:
+  # Same template as postcards::trestles, but not self-contained. trestles inlines
+  # every asset (~5 MB), which pushes the page text past Googlebot's 2 MB crawl limit.
+  html_document:
+    template: !expr system.file("pandoc_templates", "trestles.html", package = "postcards")
+    self_contained: false
+    theme: null
+    mathjax: null
+    md_extensions: "-autolink_bare_uris"
     includes:
       in_header: "header.html"
 site: distill::distill_website
