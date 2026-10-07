@@ -37,15 +37,7 @@ I'm a PhD student in Economics at [UC Berkeley](https://www.econ.berkeley.edu/).
 
 * Applied Economic Theory
 
-I'm broadly interested in problems related to:
-
-* Digital platforms
-
-* Regulation under information asymmetry and contractual frictions
-
-* Inequality-aware market design
-
-* Economics of AI
+I'm broadly interested in problems related to the regulation of digital platforms and artificial intelligence. I also study the optimal auditing of public projects and the industrial organization of vaccine markets.
 
 Prior to Berkeley, I was a research fellow at Stanford Law School (2022-2024), where I worked on projects in law and economics and led the development of the [Lanterman Fair Hearing Smart Search Tool](https://siddlapp-fair-hearing-search-tool.law.stanford.edu/).
 
@@ -56,6 +48,8 @@ Contact: haosen_he [at] berkeley.edu.
 ---
 
 ### *What's New:*
+
+I'm presenting at [EconML @ NeurIPS'26](https://econml26-workshop.github.io/) in Atlanta in December 2026.
 
 *July 2026*: I presented at [SAET 2026](https://saet.uiowa.edu/2026-conference/) in Rio de Janeiro on July 17, 2026.
 
