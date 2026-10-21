@@ -108,7 +108,7 @@ the platform’s intrinsic value, leaving only a purely extractive collective tr
 :::
 
 ::: {.paper}
-**"Optimal Auditing of Manipulable Claims"**
+**["Allocating Funds and Audits under Costly Falsification"](https://drive.google.com/file/d/1UJA7LJIP7-dZxovhaOPQhP02HA0d7ehc/view?usp=sharing)**
 :::
 
 ::: {.paper}
