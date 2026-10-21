@@ -104,7 +104,7 @@ the platform’s intrinsic value, leaving only a purely extractive collective tr
 ::: {.paper}
 **"Thinking on a Budget: Revealed Preferences over Computational Resources in LLMs"** with Shachar Kariv and Mingduo Zhao
 
-[Acceped, EconML Workshop at NeurIPS'26]{.status}
+[Accepted, EconML Workshop at NeurIPS'26]{.status}
 :::
 
 ::: {.paper}
