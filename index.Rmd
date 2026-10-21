@@ -4,9 +4,9 @@ description: "I am a PhD student in Economics at UC Berkeley specializing in ind
 image: "img/haosen.jpg"
 links:
   - label: Berkeley Profile
-    url: "https://econ.berkeley.edu/people/graduate-student-profiles?page=0"
+    url: "https://econ.berkeley.edu/people/graduate-student-profiles?page=1"
   - label: CV
-    url: "https://drive.google.com/file/d/12QbnUbDF5hXYAt78z4bssvx-qxSyMLV4/view?usp=sharing"
+    url: "https://drive.google.com/file/d/1O9IUSGABmvxHbdsTHDQ1egh6RQ_tBP1z/view?usp=sharing"
   - label: GitHub
     url: "https://github.com/HaosenHe"
 

@@ -76,7 +76,7 @@ d-article > h2:first-of-type {
 ## Work in Progress
 
 ::: {.paper}
-**Optimal social media regulation** [[SSRN Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6806518) [[SAET 2026 Slides]](https://drive.google.com/file/d/1Du4PN5s7-V1MbEP31QLJDfi117lZ_jl8/view?usp=sharing)
+**Optimal Social Media Regulation** [[SSRN Preprint]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6806518) [[SAET 2026 Slides]](https://drive.google.com/file/d/1Du4PN5s7-V1MbEP31QLJDfi117lZ_jl8/view?usp=sharing)
 
 [Submitted, ***AEJ: Micro***]{.status}
 
@@ -118,7 +118,7 @@ the platform’s intrinsic value, leaving only a purely extractive collective tr
 ## Publications
 
 ::: {.paper}
-**"Modeling behavioral response to infectious diseases in an online experiment"** with Frederick Chen and Chu A. (Alex) Yu. ***Review of Economic Design*** (2025).
+**"Modeling Behavioral Response to Infectious Diseases in an Online Experiment"** with Frederick Chen and Chu A. (Alex) Yu. ***Review of Economic Design*** (2025).
 
 <details>
 <summary>Abstract</summary>
@@ -131,7 +131,7 @@ We formulate and numerically solve a game-theoretic model of rational agents’ 
 :::
 
 ::: {.paper}
-**"An agent-based model of elephant crop consumption walks using combinatorial optimization"** with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A. (Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
+**"An Agent-Based Model of Elephant Crop Consumption Walks Using Combinatorial Optimization"** with Erin Buchholtz, Frederick Chen, Susanne Vogel, and Chu A. (Alex) Yu. ***Ecological Modelling*** (2022). [[Code]](https://github.com/HaosenHe/Elephant-Crop-Raiding)
 
 <details>
 <summary>Abstract</summary>
