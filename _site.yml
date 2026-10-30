@@ -17,4 +17,7 @@ navbar:
     #  href: https://siddlapp-fair-hearing-search-tool.law.stanford.edu/
     - icon: fab fa-github
       href: https://github.com/HaosenHe
-output: distill::distill_article
+output:
+  distill::distill_article:
+    includes:
+      in_header: navbar.html

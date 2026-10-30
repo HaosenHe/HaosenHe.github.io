@@ -108,7 +108,7 @@ the platform’s intrinsic value, leaving only a purely extractive collective tr
 :::
 
 ::: {.paper}
-**"Optimal Auditing under Costly Falsification"** [[Slides]](https://drive.google.com/file/d/1iVE1RL4he8AgNawaU12jmqbxIDkweqhs/view?usp=sharing)
+**"Optimal Auditing under Costly Falsification"** [[Draft]](https://drive.google.com/file/d/1jKfsA4Z0_XaFk-WTipIsFf-bDob0k1Yl/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1iVE1RL4he8AgNawaU12jmqbxIDkweqhs/view?usp=sharing)
 :::
 
 ::: {.paper}

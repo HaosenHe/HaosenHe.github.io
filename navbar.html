@@ -1,0 +1,14 @@
+<!-- Make the distill pages' navbar look exactly like the homepage's. The homepage navbar
+     inherits Roboto Slab from the postcards template and border-box sizing from Bootstrap;
+     distill pages default to the system font and content-box sizing, which shifts the title. -->
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+<style type="text/css">
+.distill-site-header {
+  font-family: 'Roboto Slab', serif;
+  line-height: 1.5;
+}
+
+.distill-site-header .title {
+  box-sizing: border-box;
+}
+</style>

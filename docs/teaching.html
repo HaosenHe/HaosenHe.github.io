@@ -32,7 +32,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -2081,6 +2081,21 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
+  <!-- Make the distill pages' navbar look exactly like the homepage's. The homepage navbar
+       inherits Roboto Slab from the postcards template and border-box sizing from Bootstrap;
+       distill pages default to the system font and content-box sizing, which shifts the title. -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+  <style type="text/css">
+  .distill-site-header {
+    font-family: 'Roboto Slab', serif;
+    line-height: 1.5;
+  }
+
+  .distill-site-header .title {
+    box-sizing: border-box;
+  }
+  </style>
+
   <!--/radix_placeholder_site_in_header-->
 
 
