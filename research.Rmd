@@ -109,6 +109,15 @@ the platform’s intrinsic value, leaving only a purely extractive collective tr
 
 ::: {.paper}
 **"Optimal Auditing under Costly Falsification"** [[Draft]](https://drive.google.com/file/d/1jKfsA4Z0_XaFk-WTipIsFf-bDob0k1Yl/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1iVE1RL4he8AgNawaU12jmqbxIDkweqhs/view?usp=sharing)
+
+<details>
+<summary>Abstract</summary>
+<div style="font-size: 0.95em;">
+
+Governments allocate public funds based on self-reported needs, constrained by limited audit capacity and counterbalanced by private falsification costs. I analyze the optimal joint design of payment schedules and audit rules under costly falsification. Under linear falsification costs, the optimal mechanism adopts a threshold rule, auditing only the largest claims above an endogenous cutoff while flattening payments below it to deter misreporting. Under convex falsification costs, auditing spreads across the entire interior. With scarce audit capacity, the resulting payment schedule becomes steeper for interior claims and flatter near the endpoints.
+
+</div>
+</details>
 :::
 
 ::: {.paper}
