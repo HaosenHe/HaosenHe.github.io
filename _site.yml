@@ -13,8 +13,6 @@ navbar:
       href: research.html
     - text: "Teaching"
       href: teaching.html
-    # - text: "Lanterman"
-    #  href: https://siddlapp-fair-hearing-search-tool.law.stanford.edu/
     - icon: fab fa-github
       href: https://github.com/HaosenHe
 output:

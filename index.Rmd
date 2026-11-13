@@ -39,7 +39,7 @@ I'm a PhD student in Economics at [UC Berkeley](https://www.econ.berkeley.edu/).
 
 I'm broadly interested in problems related to the regulation of digital platforms and artificial intelligence. I also study the optimal auditing of public projects and the industrial organization of vaccine markets.
 
-Prior to Berkeley, I was a research fellow at Stanford Law School (2022-2024), where I worked on projects in law and economics and led the development of the [Lanterman Fair Hearing Smart Search Tool](https://siddlapp-fair-hearing-search-tool.law.stanford.edu/).
+Prior to Berkeley, I was a research fellow at Stanford Law School (2022-2024), where I worked on projects in law and economics.
 
 You can find my research [here](https://haosenhe.github.io/research.html). 
 

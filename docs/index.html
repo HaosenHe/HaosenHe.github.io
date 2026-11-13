@@ -623,6 +623,21 @@
 
           <!--/radix_placeholder_navigation_in_header-->
           <!--radix_placeholder_site_in_header-->
+          <!-- Make the distill pages' navbar look exactly like the homepage's. The homepage navbar
+               inherits Roboto Slab from the postcards template and border-box sizing from Bootstrap;
+               distill pages default to the system font and content-box sizing, which shifts the title. -->
+          <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap" rel="stylesheet">
+          <style type="text/css">
+          .distill-site-header {
+            font-family: 'Roboto Slab', serif;
+            line-height: 1.5;
+          }
+
+          .distill-site-header .title {
+            box-sizing: border-box;
+          }
+          </style>
+
           <!--/radix_placeholder_site_in_header-->
           
           <style type="text/css">
@@ -724,9 +739,7 @@
             industrial organization of vaccine markets.</p>
             <p>Prior to Berkeley, I was a research fellow at Stanford
             Law School (2022-2024), where I worked on projects in law
-            and economics and led the development of the <a
-            href="https://siddlapp-fair-hearing-search-tool.law.stanford.edu/">Lanterman
-            Fair Hearing Smart Search Tool</a>.</p>
+            and economics.</p>
             <p>You can find my research <a
             href="https://haosenhe.github.io/research.html">here</a>.</p>
             <p>Contact: haosen_he [at] berkeley.edu.</p>
@@ -801,9 +814,7 @@
               markets.</p>
               <p>Prior to Berkeley, I was a research fellow at Stanford
               Law School (2022-2024), where I worked on projects in law
-              and economics and led the development of the <a
-              href="https://siddlapp-fair-hearing-search-tool.law.stanford.edu/">Lanterman
-              Fair Hearing Smart Search Tool</a>.</p>
+              and economics.</p>
               <p>You can find my research <a
               href="https://haosenhe.github.io/research.html">here</a>.</p>
               <p>Contact: haosen_he [at] berkeley.edu.</p>
